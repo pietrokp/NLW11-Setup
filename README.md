@@ -34,6 +34,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Habits é um aplicativo para auxiliar no registro de habitos diários.
 
+- [Visite o projeto online](https://pietrokp.github.io/NLW11Setup-habits/)
+
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/sfSggDJIIr0VA5keJGc0kw/Habits-(e)-(Community)?node-id=6%3A910&t=24h7gg5q3Hu2DYTc-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
